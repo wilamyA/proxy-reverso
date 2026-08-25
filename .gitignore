@@ -1,0 +1,4 @@
+# Dependências e dados do MySQL
+node_modules/
+mysql/dbdata/
+.DS_Store
